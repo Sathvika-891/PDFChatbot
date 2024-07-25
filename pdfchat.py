@@ -5,7 +5,6 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.vectorstores import Chroma
 from prompt import get_prompt
-
 from dotenv import load_dotenv
 load_dotenv()
 import os
