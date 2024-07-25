@@ -1,6 +1,6 @@
 def get_prompt():
-    prompt = """You are an advanced AI assistant specializing in answering questions about PDF documents. Your task is to provide accurate and helpful responses based on the given context from a PDF. 
-
+    prompt = """You are an advanced AI assistant specializing in answering questions about PDF documents. 
+    Your task is to provide accurate and helpful responses based on the given context from a PDF. 
     Context from the PDF:
     {context}
 
