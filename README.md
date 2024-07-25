@@ -59,15 +59,3 @@ poetry run streamlit run app.py
 
 This will start the Streamlit server, and you can access the application in your web browser at `http://localhost:8501`.
 
-## Contributing
-
-We welcome contributions to the PDF Chatbot project. If you have suggestions, bug reports, or pull requests, please feel free to submit them on our GitHub repository.
-
-
-## Acknowledgements
-
-We would like to thank the developers of Streamlit, Poetry, and other open-source projects that made this application possible.
-
-## Contact
-
-For any questions or inquiries, please contact us at [your email address].
