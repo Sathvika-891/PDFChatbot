@@ -19,6 +19,7 @@ The PDF Chatbot is an interactive web application built using Streamlit. This ap
 - Streamlit
 - Poetry (for dependency management)
 - API keys: REPLICATE_API_TOKEN
+- Database: Chroma DB
 
 ## Installation
 
@@ -58,4 +59,8 @@ poetry run streamlit run app.py
 ```
 
 This will start the Streamlit server, and you can access the application in your web browser at `http://localhost:8501`.
+
+## Database
+This application uses Chroma DB, an open-source database, for efficient data storage and retrieval.
+Chroma DB allows for quick indexing and querying of PDF content, enabling the chatbot to provide accurate and timely responses.
 
