@@ -2,7 +2,6 @@ import streamlit as st
 from pdfchat import PDFChatbot
 import time
 import asyncio
-
 def get_chatbot():
     if "chatbot" not in st.session_state:
         st.session_state.chatbot = PDFChatbot()
