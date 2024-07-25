@@ -2,7 +2,7 @@
 name = "pdf chatbot"
 version = "0.1.0"
 description = "A chatbot that is capable enough in answering questions related to the given PDF "
-authors = [Sathvika-Kopalli]
+authors = ["Sathvika-Kopalli"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
