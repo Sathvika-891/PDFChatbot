@@ -8,14 +8,14 @@ The PDF Chatbot is an interactive web application built using Streamlit. This ap
 
 ## Features
 
-- Interactive chatbot interface for querying PDFs.
+- Interactive chatbot interface for querying PDF document.
 - Easy-to-use web interface built with Streamlit.
 - Support PDF document.
 - Efficient and accurate information extraction.
 
 ## Requirements
 
-- Python 3.10.14
+- Python 3.10x versions
 - Streamlit
 - Poetry (for dependency management)
 - API keys: REPLICATE_API_TOKEN
