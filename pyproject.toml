@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "pdf chatbot"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "A chatbot that is capable enough in answering questions related to the given PDF "
+authors = [Sathvika-Kopalli]
 readme = "README.md"
 
 [tool.poetry.dependencies]
