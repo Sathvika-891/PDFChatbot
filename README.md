@@ -27,7 +27,7 @@ The PDF Chatbot is an interactive web application built using Streamlit. This ap
 First, clone the repository from GitHub:
 
 ```sh
-git clone https://github.com/yourusername/pdf-chatbot.git
+git clone https://github.com/Sathvika-891/PDFChatbot.git
 cd pdf-chatbot
 ```
 
