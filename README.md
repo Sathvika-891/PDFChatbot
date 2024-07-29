@@ -29,7 +29,7 @@ First, clone the repository from GitHub:
 
 ```sh
 git clone https://github.com/Sathvika-891/PDFChatbot.git
-cd pdf-chatbot
+cd PDFChatbot
 ```
 
 ### Install Dependencies
